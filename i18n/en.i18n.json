@@ -1,10 +1,10 @@
 {
 
 	/*Config*/
-	"configName": "My App",
-	"configTitle": "Make Meteor Apps. Fast.",
-	"configSubtitle": "Create beautiful and functioning Meteor apps really quick",
-	
+	"configName": "Nick Lewis",
+	"configTitle": "Lets build you something...",
+	"configSubtitle": "We create beautiful and easy to use web apps for other humans",
+
 	/*Home*/
 	"getstarted": "Get Started",
 	"dashboard": "Go to dashboard",
@@ -70,7 +70,7 @@
 	"profilePicture": "Profile Picture"
 
 
-	
+
 
 
 }
